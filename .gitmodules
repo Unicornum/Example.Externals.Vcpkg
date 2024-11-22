@@ -1,0 +1,3 @@
+[submodule "Externals.Vcpkg"]
+	path = Externals.Vcpkg
+	url = https://github.com/Unicornum/Externals.Vcpkg.git

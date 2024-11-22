@@ -1,0 +1,3 @@
+<Project>
+ <Import Project="$(UNICORNUM_EXTERNALS_SDK_V002)\Externals.props" />
+</Project>
