@@ -8,6 +8,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example.Android", "Example\Example.Android.vcxproj", "{9DBFC59F-4993-42C1-A378-EEA8F7F4DD6D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example.AutoBuild", "Example\Example.AutoBuild.vcxproj", "{F62C23F0-5AA8-442C-BE43-6B76E0B52034}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8F447930-6FB0-43AA-8CE8-71299859CD18} = {8F447930-6FB0-43AA-8CE8-71299859CD18}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
